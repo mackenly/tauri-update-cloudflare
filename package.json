@@ -39,6 +39,6 @@
         "wrangler": "^4.135.0"
     },
     "dependencies": {
-        "semver": "^7.8.5"
+        "semver": "^7.8.6"
     }
 }
